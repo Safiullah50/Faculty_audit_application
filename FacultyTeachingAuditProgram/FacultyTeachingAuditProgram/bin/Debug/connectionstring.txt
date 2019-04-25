@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\young.DESKTOP-KQI28J5\Desktop\dbtest\FacultyDatabase_v4.13 - empty.mdb;

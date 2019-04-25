@@ -1,0 +1,10 @@
+Term,CRN,Course,Sec,Part Term,Course Title,Instructor Email
+201910,12556,CIS010,101,1,Computer Proficiency Exam,J00168099
+201910,12557,CIS010,102,1,Computer Proficiency Exam,J00168099
+201910,12560,CIS010,104,1,Computer Proficiency Exam,J00168099
+201910,12561,CIS010,105,1,Computer Proficiency Exam,J00168099
+201910,12564,CIS010,107,1,Computer Proficiency Exam,J00168099
+201910,12565,CIS010,108,1,Computer Proficiency Exam,J00168099
+201910,12570,CIS010,110,1,Computer Proficiency Exam,
+201910,12572,CIS010,111,1,Computer Proficiency Exam,
+201910,12558,CIS010,501,1,Computer Proficiency Exam,J00168099
